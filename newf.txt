@@ -1,1 +1,3 @@
-my name is prabhat
+<<<<<<< HEAD
+my name is prabhat dhokade and i resloved this conflict
+>>>>>>> branch1
